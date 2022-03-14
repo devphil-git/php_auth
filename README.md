@@ -1,1 +1,2 @@
-# Test php+mysql registration and authorisation form
+# php_auth 
+Test php+mysql registration and authorisation form
