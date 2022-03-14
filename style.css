@@ -1,5 +1,27 @@
-.form-signin {
+* {
+   box-sizing: border-box;
+}
+
+h2 {
+   margin-bottom: 30px;
+}
+
+.form-signin,
+.logout {
    max-width: 400px;
    padding: 15px;
-   margin: 0 auto;
+   margin: 20px auto;
+}
+
+input.form-control {
+   margin-bottom: -1px;
+   border-radius: 0;
+}
+
+.checkbox label {
+   cursor: pointer;
+}
+
+.btn-logout {
+   width: 370px;
 }
